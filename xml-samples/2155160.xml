@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAS: Organometallic Chemistry of High- and Low-Valent Nickel Centers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>525000.00</AwardTotalIntnAmount>
+<AwardAmount>170516</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>George Richter-Addo</SignBlockName>
+<PO_EMAI>grichter@nsf.gov</PO_EMAI>
+<PO_PHON>7032927528</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With the support of the Chemical Synthesis program in the Division of Chemistry, Professor Liviu M. Mirica of the Department of Chemistry at the University of Illinois at Urbana-Champaign (UIUC) will study the electronic properties and reactivity profiles of uncommon but reactive complexes of nickel that help in the production of useful organic compounds. The proposed studies will include a combination of synthetic chemistry to make the compounds and advanced spectroscopy for the characterization of these compounds, and thus will provide students in the research laboratory an interdisciplinary training and the opportunity to develop a broad range of scientific skills. In addition, Professor Mirica has developed a collaboration with Michael Webb from the neighboring Illinois State University (ISU) that will allow students from ISU to visit Professor Mirica’s laboratory for research and advanced spectroscopy studies. The PI will continue to be active in recruiting and training graduate and undergraduate students from different backgrounds, and will participate in the Chemistry Community program at UIUC aimed at increasing graduation rates for STEM (science, technology, engineering and mathematics) majors from underrepresented groups.&lt;br/&gt;&lt;br/&gt;It is well-known that palladium (Pd)-based complexes feature prominently as catalysts for  cross-coupling reactions to generate C-C and C-X bonds. Nickel (Ni)-based systems have been recently developed given their generally broader substrate scope. This project by Professor Mirica deals with detailing the role of paramagnetic organometallic Ni complexes in important chemical transformations such as C-C and C-heteroatom bond formation and coupling. The project builds on Professor Mirica’s recent work in this area of chemistry of Ni chemistry, and will pursue the synthesis, isolation, detailed characterization, and reactivity studies of a series of organometallic Ni(III) complexes supported by flexible multidentate ligands. Novel organometallic Ni complexes in varied oxidation states will be isolated, characterized, and employed in new photocatalytic cross-coupling transformations. Professor Mirica and his group will investigate the photochemical and thermal reactivity of these Ni systems in detail, using the appreciable number of isolated organometallic Ni(III) and Ni(I) complexes expected to be synthesized in this project. The interdisciplinary training of students will span inorganic, organic, organometallic, and physical chemistry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/23/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155160</AwardID>
+<Investigator>
+<FirstName>Liviu</FirstName>
+<LastName>Mirica</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Liviu M Mirica</PI_FULL_NAME>
+<EmailAddress><![CDATA[mirica@illinois.edu]]></EmailAddress>
+<NSF_ID>000565995</NSF_ID>
+<StartDate>06/23/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>506 S WRIGHT ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>Urbana</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 S. Wright Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>6878</Code>
+<Text>Chemical Synthesis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8398</Code>
+<Text>Hydrocarbon Conversion</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8607</Code>
+<Text>Solar Energy Capture&amp;Conver</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~170516</FUND_OBLG>
+</Award>
+</rootTag>

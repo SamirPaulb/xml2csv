@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Dynamics of Molecules in Extreme Rotational States Made with an Optical Centrifuge]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2022</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>540000.00</AwardTotalIntnAmount>
+<AwardAmount>540000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne-Marie Schmoltner</SignBlockName>
+<PO_EMAI>aschmolt@nsf.gov</PO_EMAI>
+<PO_PHON>7032924716</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With support from the  Chemical Structure, Dynamics and Mechanisms-A (CSDM-A) Program in the Division of Chemistry, Professor Amy Mullin and her team at the University of Maryland-College Park will investigate how molecules behave when they possess significant rotational energy. Many chemical reactions proceed faster when energy is added, usually in the form of increased temperature. Adding heat allows molecules to adopt high-energy configurations from which they can convert into other molecules. In the macroscopic world, energy is a smoothly varying property. However, molecules are small in an absolute sense, and their energy levels are determined by quantum mechanics. A CO2 molecule is 50 billionths of a centimeter in length, and it has discrete energy levels when it rotates and when its atoms vibrate internally. These quantized energy states control the types of molecular motion that help, or hinder, chemical change under high-energy conditions. The importance of the project is to determine how molecular geometry is distorted by large amounts of rotational energy and how this distortion leads to new types of chemical processes. The results of this project will have implications for understanding chemical reactions and are expected to inform research in other fields where high energy molecules are present. Graduate students will have the opportunity to gain experience in sophisticated laser-based approaches. Training workshops will be organized to prepare undergraduate chemistry and biochemistry students for applying to graduate school.&lt;br/&gt; &lt;br/&gt;Under this award, the Mullin group at U. Maryland  will use an ultrafast, tunable optical centrifuge to prepare molecules in extreme rotational energy states with oriented angular momentum. The structure and dynamics of the high energy molecules will be interrogated using high-resolution transient infrared spectroscopy. The optical centrifuge is a strong-field, non-resonant technique that can induce large angular momentum increases in molecules, thereby giving access to a previously unexplored realm. The project will prepare nascent rotational distributions with controllable amounts of energy, and investigate how the molecules undergo collisional relaxation, orientational anisotropy decay, and coupling to vibrational modes. The project will investigate how energy gaps, angular frequencies, and rotational quantum numbers impact the dynamics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/26/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155135</AwardID>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Mullin</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amy S Mullin</PI_FULL_NAME>
+<EmailAddress><![CDATA[mullin@umd.edu]]></EmailAddress>
+<NSF_ID>000457018</NSF_ID>
+<StartDate>07/26/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207421800</ZipCode>
+<StreetAddress><![CDATA[3216A Chemistry Building]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>9101</Code>
+<Text>Chem Struct,Dynmcs&amp;Mechansms A</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~540000</FUND_OBLG>
+</Award>
+</rootTag>

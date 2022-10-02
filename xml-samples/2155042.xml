@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Hexadehydro-Diels-Alder (HDDA) Reaction-Enabled Synthesis  of Structurally Elaborate, Polycyclic Aromatic Compounds]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>525000.00</AwardTotalIntnAmount>
+<AwardAmount>525000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Blakemore</SignBlockName>
+<PO_EMAI>pblakemo@nsf.gov</PO_EMAI>
+<PO_PHON>7032922726</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With the support of the Chemical Synthesis (SYN) Program in the Division of Chemistry, Professor Thomas Hoye of the University of Minnesota is studying the use of a versatile new method for chemical synthesis known as the hexadehydro-Diels-Alder (HDDA) reaction. The HDDA reaction requires merely the simple heating of an appropriately designed precursor (a reactant known as a triyne) to produce a highly reactive species known as a benzyne. In turn, this intermediate can engage myriad types of “trapping agents,” often resulting in unprecedented types of chemical transformation. The funded research focuses on using the HDDA reaction as a tool to discover new ways to build molecules known as polycyclic aromatics. Compounds of this class often exhibit photochemical and photophysical properties critical for the operation of modern optoelectronic devices that are of great value to society; for example, organic light emitting diodes (OLEDs), which are used in energy efficient displays and lighting units, and photovoltaic cells, which are used for the conversion of solar energy into electricity. In addition to facilitating the preparation of polycyclic aromatics, pursuit of the project aims is anticipated to advance both fundamental understanding of various new types of chemical transformations as well as providing the means and inspiration to access previously elusive types of chemical structures. A number of significant broader impacts of benefit to a wider group of stakeholders – including students, instructors, and the broader scientific community – are planned. Of particular note are (1) an activity dubbed “Vignettes in Physical Organic Chemistry” in which Professor Hoye and his coworkers will prepare (and make available on a curated website) pedagogically valuable documents of historically important developments in the field of mechanistic organic chemistry, and (2) the development and dissemination of tutorial tips and tricks of practical value to the users of NMR spectroscopy, the single most valuable and powerful tool for analyzing organic reactions and structures.&lt;br/&gt;&lt;br/&gt;This award is enabling the Hoye research group to continue to capitalize on the capacity of the HDDA reaction to facilitate concise and efficient elaborations of highly conjugated polycyclic aromatics. The new methods and strategies for the syntheses of such compounds are the most important outcomes that are anticipated to result from this project but fundamentally important mechanistic knowledge will likely also emerge. Specific topics to be explored include naphthalene- and anthracene-templated HDDA reactions, intra-annular HDDA reactions, “propagating HDDA reactions” for the synthesis of conjugated polymers, and the use of an iterative exponential growth strategy to produce discreet polyyne substrates designed to undergo long sequences of “domino HDDA reactions” leading to oligomeric linear polyacenes. Professor Hoye holds major teaching awards that recognize his career-long commitment to the education of students at both the undergraduate and graduate levels. Broader activities supported by this project will benefit chemistry research students at multiple levels. The scientific advances have the possibility of opening new avenues for pursuit by materials scientists who use organic electronic and photonic compounds in the settings of light-emitting diodes, photovoltaics, and solar cells, applications that have a large potential for societal impact.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/05/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>09/20/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155042</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Hoye</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas R Hoye</PI_FULL_NAME>
+<EmailAddress><![CDATA[hoye@umn.edu]]></EmailAddress>
+<NSF_ID>000215643</NSF_ID>
+<StartDate>07/05/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE # 224</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>CB47L9C9MDX1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>Minneapolis</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554550240</ZipCode>
+<StreetAddress><![CDATA[207 Pleasant St. SE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>6878</Code>
+<Text>Chemical Synthesis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~525000</FUND_OBLG>
+</Award>
+</rootTag>

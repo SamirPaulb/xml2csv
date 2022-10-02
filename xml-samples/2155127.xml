@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Development of Bench-stable N-quaternized ketene N,O-acetals as Multifunctional Reagents for Organic Synthesis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>246927.00</AwardTotalIntnAmount>
+<AwardAmount>246927</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Blakemore</SignBlockName>
+<PO_EMAI>pblakemo@nsf.gov</PO_EMAI>
+<PO_PHON>7032922726</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With the support of the Chemical Synthesis program in the Division of Chemistry,  Max Majireck of Hamilton College is studying a new class of compounds that is useful for the manufacture of value-added materials such as pharmaceutical agents, agrochemicals, and other substances of use to society. Central to this research is a recent discovery made by the Majireck research group that reactive compounds known as N-quaternized ketene N,O-acetals, typically too delicate to be handled, can be prepared in a manner that stabilizes them. This important finding opens the door for such materials to be employed for the first time in the synthesis of a broad range of valuable compounds. For example, a goal of the funded project is to use the newly available class of N,O-acetals for the preparation of biologically active nitrogen-containing cyclic compounds commonly found as components in active pharmaceuticals. Furthermore, the research team will investigate a variety of processes involving the new reagents to uncover efficient methods for chemical manufacture that are straightforward and devoid of expensive additives, such as precious metal catalysts. The broader impacts of the project will extend to supporting research-based academic courses and summer research experiences for undergraduate students in synthetic organic chemistry at Hamilton College, with an emphasis on recruiting, training, and retaining students from underrepresented groups for careers in science, technology, engineering, and mathematics (STEM).&lt;br/&gt;&lt;br/&gt;N-Quaternized ketene N,O-acetals have been overlooked as reagents in organic synthesis due to their typical instability and/or specialized means of generation in situ. However, it was recently discovered that certain compounds within this class, and particularly pyridinium ketene N,O-acetals, have long-term bench-stability that allows for their preparation and purification in a straightforward manner. This opens up the possibility of leveraging N-quaternized ketene N,O-acetals as versatile reagents in organic synthesis. For example, such compounds can act as a source of thermally-generated O-alkyl ketenium ions, which can be used in acid catalyst-free Friedel-Crafts acylations, or in various cycloaddition reactions. Beyond the continued explorations of these kinds of processes, Dr. Majireck and his team of undergraduate students will also study the use of 2-halo-N-(1-alkoxyvinyl)pyridinium salts as electrophiles for the production of 2-aminopyridine derivatives via mild nucleophilic aromatic substitution reactions. The research will provide valuable opportunities for undergraduate students, particularly those from groups traditionally underrepresented in STEM, to partake in immersive research experiences which are anticipated to contribute toward a strengthening and diversification of the U.S. scientific workforce.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/06/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>04/06/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155127</AwardID>
+<Investigator>
+<FirstName>Max</FirstName>
+<LastName>Majireck</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Max M Majireck</PI_FULL_NAME>
+<EmailAddress><![CDATA[mmajirec@hamilton.edu]]></EmailAddress>
+<NSF_ID>000699555</NSF_ID>
+<StartDate>04/06/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Hamilton College</Name>
+<CityName>CLINTON</CityName>
+<ZipCode>133231218</ZipCode>
+<PhoneNumber>3158594678</PhoneNumber>
+<StreetAddress>198 COLLEGE HILL RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY22</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z6WLZ6RDFDM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>HAMILTON COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Z6WLZ6RDFDM7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Hamilton College]]></Name>
+<CityName>Clinton</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>133231218</ZipCode>
+<StreetAddress><![CDATA[198 College Hill Rd.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY22</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>6878</Code>
+<Text>Chemical Synthesis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~246927</FUND_OBLG>
+</Award>
+</rootTag>

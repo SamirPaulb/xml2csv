@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Asymptotic and Uniform Diophantine Approximation Via Flows on Homogeneous Spaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>395545.00</AwardTotalIntnAmount>
+<AwardAmount>395545</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marian Bocea</SignBlockName>
+<PO_EMAI>mbocea@nsf.gov</PO_EMAI>
+<PO_PHON>7032922595</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project deals with certain dynamical systems of algebraic origin and their applications to number theory. A dynamical system here stands for an abstract set of points together with an evolution law that governs the way points move over time. Such abstract dynamical systems form the basis for models of a wide range of important phenomena in science and engineering. It turns out that many questions in mathematics concerning simultaneous approximation of real numbers by rational numbers can be understood in terms of the behavior of dynamical systems. Furthermore, systems that arise in this context are of algebraic nature, which makes it possible to use a wide variety of sophisticated tools for their investigation. This research project aims to advance the framework of algebraic dynamical systems in approximation theory, develop new methods, and obtain far-reaching generalizations of results in the field. Graduate and undergraduate students will be involved in the project and introduced to new methods and techniques in number theory and dynamics. These students will also supervise research projects within the framework of the PRIMES program, an after-school research program for high school students.&lt;br/&gt;&lt;br/&gt;During recent years there have been important developments concerning connections between Diophantine approximation and dynamical systems. This research project continues the study of phenomena in both dynamics and number theory related to asymptotic and uniform approximations. Among the mathematical tools to be employed are: Schmidt games and their modifications, integral inequalities of Eskin-Margulis-Mozes, effective mixing and equidistribution properties, Siegel-Rogers moment formulas, and parametric geometry of numbers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/01/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>06/08/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155111</AwardID>
+<Investigator>
+<FirstName>Dmitry</FirstName>
+<LastName>Kleinbock</LastName>
+<PI_MID_INIT>Y</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dmitry Y Kleinbock</PI_FULL_NAME>
+<EmailAddress><![CDATA[kleinboc@brandeis.edu]]></EmailAddress>
+<NSF_ID>000116626</NSF_ID>
+<StartDate>04/01/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brandeis University</Name>
+<CityName>WALTHAM</CityName>
+<ZipCode>024532728</ZipCode>
+<PhoneNumber>7817362121</PhoneNumber>
+<StreetAddress>415 SOUTH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MXLZGAMFEKN5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BRANDEIS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JLC9RHNT9479</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[BRANDEIS UNIVERSITY]]></Name>
+<CityName>Waltham</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>024549110</ZipCode>
+<StreetAddress><![CDATA[450 South St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~395545</FUND_OBLG>
+</Award>
+</rootTag>

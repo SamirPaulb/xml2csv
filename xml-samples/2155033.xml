@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Noncommutative Functions, Algebra and Operator Analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2022</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>110448.00</AwardTotalIntnAmount>
+<AwardAmount>110448</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Constanze Liaw</SignBlockName>
+<PO_EMAI>cliaw@nsf.gov</PO_EMAI>
+<PO_PHON>7032928042</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Noncommutativity is the idea that the order of operations matters; socks before shoes is very different than shoes before socks. Noncommutativity played a fundamental role in the foundation of quantum mechanics, leading to the development of the branch of mathematics known as functional analysis. From its origins in physics, functional analysis has gained a life of its own and has found exciting applications in areas such as quantum information theory and quantum computing as well as control and systems theory. More recently, questions (about semi-definite programming and linear matrix inequalities) arising in the engineering literature have led to the development of a new subfield of functional analysis known as noncommutative function theory. This exciting new subfield sits at the intersection of noncommutative algebra, functional analysis, and operator theory, and it enjoys a wide variety of applications. Rather than deal with completely abstract mathematical objects, noncommutative function theory employs the use of concrete structures known as matrices, which are one of the fundamental noncommutative objects used in science, engineering and industry. This project aims to deepen the understanding of noncommutative function theory and consequently augment its connections to related mathematical fields. It will assist in the professional development of early researches and provide an up-to-date list of both solved and unsolved problems in the field of noncommutative function theory.&lt;br/&gt;             &lt;br/&gt;One of the main goals of this project is to increase the interplay between noncommutative function theory, noncommutative algebra, and operator theory. Recently, theorems and advances have been made in noncommutative algebra through techniques in noncommutative function theory, complex analysis, and operator theory. Objects of interest will be noncommutative rational functions and how their evaluations on matrices and operators reveals algebraic information about the functions and the skew field they generate; there is a strong connection between the injectivity domains of noncommutative rational mappings, the invertibility sets of their Jacobian matrices, and whether the noncommutative rational mapping induces an automorphism of the free skew field. On the other hand, results from noncommutative algebra (such as the realization of a noncommutative rational function) will be used to deepen the understanding of topics in mathematical analysis. Employment of novel ideas from noncommutative algebra and noncommutative function theory will provide new insights into the study of optimal polynomial approximants and related areas.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/02/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155033</AwardID>
+<Investigator>
+<FirstName>Meric</FirstName>
+<LastName>Augat</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Meric L Augat</PI_FULL_NAME>
+<EmailAddress><![CDATA[maugat@wustl.edu]]></EmailAddress>
+<NSF_ID>000838246</NSF_ID>
+<StartDate>08/02/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Washington University</Name>
+<CityName>SAINT LOUIS</CityName>
+<ZipCode>631304862</ZipCode>
+<PhoneNumber>3147474134</PhoneNumber>
+<StreetAddress>ONE BROOKINGS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L6NFUM28LQM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WASHINGTON UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>L6NFUM28LQM5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Washington University]]></Name>
+<CityName/>
+<StateCode>MO</StateCode>
+<ZipCode>631304899</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~110448</FUND_OBLG>
+</Award>
+</rootTag>

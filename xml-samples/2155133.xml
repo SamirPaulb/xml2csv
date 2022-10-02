@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Development of and Mechanistic Studies on the Palladium and Iron-Cocatalyzed Nucleoboration of Olefins]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Blakemore</SignBlockName>
+<PO_EMAI>pblakemo@nsf.gov</PO_EMAI>
+<PO_PHON>7032922726</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With the support of the Chemical Catalysis Program in the Division of Chemistry, Kami L. Hull of the University of Texas at Austin (UT-Austin) is studying a palladium- and iron-catalyzed process that converts simple chemical feedstocks (olefins) into value-added products. This so-called "nucleoboration" method results in the addition of an atom of boron and one of another element, typically nitrogen, to the olefin in a finely controlled manner. Selective transformations exist to subsequently convert the boron atom into a wide variety of other substituents and the overall process promises to be a versatile approach for the manufacture of complex compounds and advanced materials of value to society. In combination with method development, the funded research encompasses detailed mechanistic studies designed to elucidate how the catalyst pair functions with the goals of advancing fundamental knowledge of transition metal-based catalysis and improving the efficiency and sustainability of chemical synthesis. The broader impacts of the funded project extend to the benefits accrued to society as Dr. Hull and her coworkers engage in an extensive range of educational and outreach activities, including: the ChemBridge program to improve the college readiness of young Texans who belong to groups underserved in STEM (science, technology, engineering and mathematics) fields, and ongoing efforts to propagate shared values of diversity, equity, and inclusivity among the faculty and students of UT-Austin.&lt;br/&gt;&lt;br/&gt;The funded research focuses on investigations of a recently discovered Pd/Fe-cocatalyzed aminoboration of alkenes and it features further development of the process (e.g., to expand both the substrate and nucleophile scope) and associated mechanistic studies to gain insights for the underlying role of the iron(II) triflate cocatalyst. Specifically, during the course of methodological development (Aim 1), reaction conditions for the successful aminoboration of norbornene [key reagents: PhthNH, B2Pin2, cat. Pd(MeCN)2Cl2, cat. Fe(OTf)2, and O2] will be further explored and extended to more challenging olefin substrates for which beta-hydride elimination following the Markovnikov addition stage of the process could be encountered. Nucleophiles other than N-based systems, such as O-based (e.g., phenols), S-based (e.g., thiols), and C-based (e.g., indoles), will also be investigated as will alternative transmetalation reagents (e.g., Si- and Sn-based) to potentially arrive upon a highly generalized nucleometallation process. In further efforts to broaden the versatility of the platform yet further, a remote nucleoboration transformation that incorporates a 'Pd-walking' stage (i.e., regioisomerization) prior to transmetalation is also being pursued. In mechanistic studies (Aim 2), the origin of the critical role for iron species in the transmetalation step of aminoboration is being explored as is its equally curious beneficial effect on the aza-Wacker process. Finally, in an effort to develop a more sustainable variant of the nucleoboration process (Aim 3), a heterogenous and recyclable Pd/Fe catalyst system is under development. All told, the studies being pursued are anticipated to extend the versatility of olefin difunctionalization chemistry and in so doing, facilitate the synthesis of important classes of nitrogen (and other heteroatom) containing compounds that are prominent among active pharmaceutical ingredients and other kinds of complex molecules of utility in science, engineering, and medicine.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/22/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155133</AwardID>
+<Investigator>
+<FirstName>Kami</FirstName>
+<LastName>Hull</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kami Hull</PI_FULL_NAME>
+<EmailAddress><![CDATA[kamihull@utexas.edu]]></EmailAddress>
+<NSF_ID>000647938</NSF_ID>
+<StartDate>06/22/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787595316</ZipCode>
+<StreetAddress><![CDATA[3925 W Braker Lane, Ste 3.340]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>6884</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~500000</FUND_OBLG>
+</Award>
+</rootTag>

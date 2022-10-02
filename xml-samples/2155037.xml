@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAS: Quantifying the Systematic Catalytic Surface Chemistry of Non-Noble Metal Intermetallic Compounds to Achieve Diol and Olefin Production in Polyol Deoxygenation Reactions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>353295.00</AwardTotalIntnAmount>
+<AwardAmount>353295</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Laura Anderson</SignBlockName>
+<PO_EMAI>laanders@nsf.gov</PO_EMAI>
+<PO_PHON>7032922934</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With the support of the Chemical Catalysis Program in the Division of Chemistry, Siris Laursen of the University of Tennessee, Knoxville is developing inexpensive, earth-abundant catalysts for the valorization of waste from biomass pyrolysis and bio-diesel production. The future of a fully integrated biorefinery is contingent upon the efficient and selective conversion of all parts of biomass to value-added compounds. Dr. Laursen and his team are studying non-noble metal intermetallic compounds as catalysts to selectively form diols and olefins (building block chemicals) from water waste streams generated during biomass processing. These catalysts will be tuned in an effort to provide greater activity for the removal of oxygen atoms from the waste products, lower activity for carbon-carbon bond fragmentation, and lower activity for olefin hydrogenation. Simultaneously, a general understanding of the composition-activity relationships of the catalysts is being developed to improve predictive performance, accelerate catalyst discovery, and advance catalyst sustainability. This research project is expected to impact K-12, undergraduate, and graduate education by integrating students directly into the research group through summer experiences to build an educated workforce to support new renewable chemicals industries. Institutional programs are being used to support the inclusivity of these experiences and to identify students who may benefit the most from these activities.&lt;br/&gt;&lt;br/&gt;Non-noble intermetallic compounds are compositionally ordered solids composed of transition metals and post-transition metals or semimetals that have exhibited promising properties for the partial or complete deoxygenation of glycerol to 1,2-propanediol and propene. Siris Laursen and his research group are utilizing a combination of quantum chemical surface reaction modeling and experimental investigations to determine the composition-activity relationships of these compositionally complex catalysts and accelerate the discovery of materials that can produce valuable chemicals from polyols. Specific ranges of surface chemistry that promote the partial and complete removal of oxygens from polyols to produce valuable diols and olefins are being determined. Likewise, catalyst compositions that exhibit more aggressive surface chemistry to drive the complete breakdown of polyols to produce hydrogen (H2) and CO are also being noted. By understanding the origin of the special surface chemistry of intermetallic compounds at the atomic and electronic levels, Dr. Laursen and his students are working to develop simple fundamental design rules for non-noble metal catalysts that may be used in a wide range of chemical transformations that still lack efficient catalytic materials. Moreover, by integrating research and education, this project is promoting the education of a diverse group of future scientists and building an educated workforce for the biorefinery sector.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/22/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155037</AwardID>
+<Investigator>
+<FirstName>Siris</FirstName>
+<LastName>Laursen</LastName>
+<PI_MID_INIT>O</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Siris O Laursen</PI_FULL_NAME>
+<EmailAddress><![CDATA[slaursen@utk.edu]]></EmailAddress>
+<NSF_ID>000644004</NSF_ID>
+<StartDate>07/22/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>Knoxville</CityName>
+<ZipCode>379163801</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>1331 CIR PARK DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FN2YCS2YAUW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TENNESSEE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FN2YCS2YAUW3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>Knoxville</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>379163801</ZipCode>
+<StreetAddress><![CDATA[1331 Circle Park Dr]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>6884</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~353295</FUND_OBLG>
+</Award>
+</rootTag>

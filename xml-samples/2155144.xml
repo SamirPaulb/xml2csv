@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Synergy in a Solvent-Restrained Environment: Mechanochemical Control of Synthesis and Applications to Catalysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>524592.00</AwardTotalIntnAmount>
+<AwardAmount>524592</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Gilje</SignBlockName>
+<PO_EMAI>jwgilje@nsf.gov</PO_EMAI>
+<PO_PHON>7032928840</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With the support of the Chemical Synthesis Program of the Chemistry Division, Professor Timothy Hanusa of Vanderbilt University will explore reactions that occur through grinding or ball milling. Chemical reactions are often performed in solvents that are toxic and/or environmentally unfriendly. Thus, there are a number of reasons why reducing solvent use could be of advantage. This project addresses the problem by developing a mechanical approach (mechanochemistry) to run chemical reactions with little or no solvent. Mechanochemistry involves grinding solid reactants together so that they are in intimate contact and the milling process provides the energy required to initiate and maintain the reaction between reactants. Mechanochemistry is a relatively undeveloped area and this research will work to find optimal conditions for such reactions.  Targeted products include biodegradable polymers, a class of compounds of broad academic and industrial interests. Students involved in this project will gain insight and experience in mechanochemical methodology, a significant departure from the solvent-based orientation of most synthetic chemistry approaches. In addition, Professor Hanusa works closely with the Fisk-Vanderbilt Masters-to-Ph.D. Bridge Program, which is designed to broaden the participation of women and underrepresented minorities in science through partnerships between Vanderbilt and Historically Black Colleges and Universities. &lt;br/&gt;&lt;br/&gt;This project will study how the introduction of small amounts of liquid—too little to dissolve the reagents—influences mechanochemical reaction outcomes. A modification of this “liquid-assisted grinding” (LAG) technique will employ solid solvated reagents (“solvate-assisted grinding”, such as using the solid pyridine adduct [Ni(py)₄Cl₂] instead of NiCl₂ and liquid pyridine). Both main-group and transition metal coordination complexes and organometallic compounds will be studied. The research will also examine the effect of the lattice structures of solid reagents on mechanochemical reactivity. In addition to training of students, the project will provide educational and outreach efforts for women, members of underserved groups, and middle and high school students. An example is Professor Hanusa’s leadership role in the Fisk-Vanderbilt Masters-to-Ph.D. Bridge Program, which facilitates the entry and success of Master’s degree students into the Ph.D. program at Vanderbilt.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/14/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155144</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Hanusa</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy P Hanusa</PI_FULL_NAME>
+<EmailAddress><![CDATA[t.hanusa@vanderbilt.edu]]></EmailAddress>
+<NSF_ID>000389493</NSF_ID>
+<StartDate>07/14/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>NASHVILLE</CityName>
+<ZipCode>372032408</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>110 21ST AVENUE S STE 800</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GTNBNWXJ12D5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VANDERBILT UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DWH7MSXKA2A8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Vanderbilt University]]></Name>
+<CityName>Nashville</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>372350002</ZipCode>
+<StreetAddress><![CDATA[Sponsored Programs Administratio]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>6878</Code>
+<Text>Chemical Synthesis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~524592</FUND_OBLG>
+</Award>
+</rootTag>

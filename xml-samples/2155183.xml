@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Studies of the Mean Field and Allen-Cahn Equations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>380575.00</AwardTotalIntnAmount>
+<AwardAmount>380575</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marian Bocea</SignBlockName>
+<PO_EMAI>mbocea@nsf.gov</PO_EMAI>
+<PO_PHON>7032922595</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Partial differential equations (PDE) are fundamental tools in modeling many scientific and social phenomena. The mean field equation and the Allen-Cahn equation are two important types of nonlinear PDE that have arisen in the study of physical phenomena such as electroweak interaction and Chern-Simons-Higgs quantum field theories, statistical mechanics of two-dimensional turbulence, phase separation, and phase transitions. The mean field equation is also related to the study of general relativity as well as to cosmology. An important aspect of the Allen-Cahn equation is the formation of interfaces separating different physical regions of interest, which often have area minimizing properties, seen in minimal surfaces such as soap bubbles. This research project aims to advance understanding of these important equations through use of a mathematical tool recently developed by the investigator and collaborators. The project involves students at both undergraduate and graduate levels in interdisciplinary research. Postdoctoral fellows and junior researchers will also participate in and be trained as part of the project.&lt;br/&gt;&lt;br/&gt;The principal investigator plans to investigate the newly discovered sphere covering inequality (SCI) in high dimensions and various other generalizations. Applications to the mean field equation and its high-dimensional counterpart will be explored. The SCI connects geometry to analysis and has become a powerful tool in the study of two-dimensional nonlinear PDE. High-dimensional SCIs have potential for study of conformal geometry, such as improved Beckner's inequalities and uniqueness of solutions to higher order equations involving Paneitz operators. For the Allen-Cahn equation, the PI will focus on the level set structure of solutions of finite Morse index, such as, for example, the relation between the level sets of solutions and minimal surfaces. In particular, a classification of stable solutions in three dimensions will be pursued. The PI intends to use various identities and energy estimates as well as Morse index information to develop a new approach for these non-monotone, non-minimizing solutions. The final goal of the project is to understand completely entire solutions for both scalar and vector-valued Allen-Cahn equations and the stability and dynamics of triple or quadruple junctions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/22/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155183</AwardID>
+<Investigator>
+<FirstName>Changfeng</FirstName>
+<LastName>Gui</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Changfeng Gui</PI_FULL_NAME>
+<EmailAddress><![CDATA[changfeng.gui@utsa.edu]]></EmailAddress>
+<NSF_ID>000703111</NSF_ID>
+<StartDate>07/22/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at San Antonio</Name>
+<CityName>SAN ANTONIO</CityName>
+<ZipCode>782491644</ZipCode>
+<PhoneNumber>2104584340</PhoneNumber>
+<StreetAddress>1 UTSA CIRCLE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U44ZMVYU52U6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT SAN ANTONIO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at San Antonio]]></Name>
+<CityName/>
+<StateCode>TX</StateCode>
+<ZipCode>782491644</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~380575</FUND_OBLG>
+</Award>
+</rootTag>

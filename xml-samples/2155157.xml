@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAS-Climate: Electroadsorption Kinetics on Transition Metals: Measurement and Mechanism]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>542000.00</AwardTotalIntnAmount>
+<AwardAmount>542000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amanda Haes</SignBlockName>
+<PO_EMAI>ahaes@nsf.gov</PO_EMAI>
+<PO_PHON>7032927909</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With support from the Chemical Structure, Dynamics, and Mechanism A (CSDM-A) Program in the Division of Chemistry, Drs. Jin Suntivich and Héctor Abruña of Cornell University are investigating the mechanism of surface hydrogen formation on transition metals with well-defined structure and orientation. Electrochemical and non-linear spectroscopic measurements facilitate the formation of a conceptual framework for proton and electron transfers across the metal-water interface. Drs. Suntivich and Abruña and their students examine the electrode potential-dependent formation of surface hydrogen on metal single crystals because this reaction represents the first step in the evolution/production of hydrogen and involves only one electron and one proton. The team also investigates the influence of local variables such as interfacial electric field and surface chemistry on proton and electron-transfer kinetics. Non-linear spectroscopy is used to provide local electric field information at the metal-water interface. By advancing the mechanistic knowledge of electrochemical reactions, future catalysts that efficiently generate or evolve hydrogen from water could be designed. The team also  translates concepts in electrochemical and optical sciences to outreach activities through the New York Stat 4-H Youth Development program. The team is developing new curricular materials on chemical circularity for first year students at Cornell University.&lt;br/&gt; &lt;br/&gt;This project investigates the proton-coupled electron transfer (PCET) mechanism on well-defined single-crystal metal surfaces such as platinum and palladium. These heterogeneous electrochemical reactions are common in electrocatalysis; however, they are complex because most PCET reactions involve the transfer of multiple protons and electrons. The research team applies a time-dependent electro-analytical method and non-linear spectroscopy to probe surface hydrogen formation, which involves only one proton and one electron. These studies examine the surface hydrogen formation kinetics on single-crystal metal surfaces as a function of proton donor and metal chemistries as well as local electric field and surface oxide. Phase-sensitive second harmonic generation measurements are employed to characterize the local electric field during the electrochemical reaction. These investigations foster a deep understanding of the molecular picture during the heterogeneous PCET electrocatalysis mechanism.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/29/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>03/29/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155157</AwardID>
+<Investigator>
+<FirstName>Hector</FirstName>
+<LastName>Abruna</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hector D Abruna</PI_FULL_NAME>
+<EmailAddress><![CDATA[hda1@cornell.edu]]></EmailAddress>
+<NSF_ID>000479049</NSF_ID>
+<StartDate>03/29/2022</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jin</FirstName>
+<LastName>Suntivich</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jin Suntivich</PI_FULL_NAME>
+<EmailAddress><![CDATA[js2765@cornell.edu]]></EmailAddress>
+<NSF_ID>000632809</NSF_ID>
+<StartDate>03/29/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>341 PINE TREE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY23</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EQA8NBEN9WD5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName/>
+<StateCode>NY</StateCode>
+<ZipCode>148502820</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY23</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>9101</Code>
+<Text>Chem Struct,Dynmcs&amp;Mechansms A</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8397</Code>
+<Text>Hydrogen Storage or Generation</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~542000</FUND_OBLG>
+</Award>
+</rootTag>

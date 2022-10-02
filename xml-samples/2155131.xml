@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SaTC: CORE: Small: Enabling Mobile Users to Solve Privacy Issues with Their Own Hands Unobtrusively based on Gripping Hand Sensing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2022</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>471429.00</AwardTotalIntnAmount>
+<AwardAmount>471429</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeremy Epstein</SignBlockName>
+<PO_EMAI>jepstein@nsf.gov</PO_EMAI>
+<PO_PHON>7032928338</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Smartphones have become our most intimate devices. To protect against unauthorized access, many authentication methods (e.g., PINs, fingerprints, and face IDs) have been deployed. However, by requiring active user efforts to input biometric data, they are unable to cope with many scenarios when user participation is not available at once, such as when the smartphone is shared with others or when notification content is displayed on the screen spontaneously. Furthermore, while biometric data have become more popular for authentication, it can be eavesdropped and reused. This research addresses the two long-standing issues of biometric authentication, obtrusiveness and replay threat, based on gripping-hand sensing. The key insight is that for a handheld device, the user needs to hold the device to use it. The project’s novelties are enabling smartphone users to solve access issues with their own hands unobtrusively, extracting nonreusable biometric features for authentication, and using media sounds to sense the user’s gripping hand. The project's broader significance and importance are that it benefits the huge population of smartphone users by providing enhanced mobile security, disseminates the research outcomes to the public to benefit both industry and academia, and contributes to educational programs, including curriculum development, graduate/undergraduate training, K-12 involvement, and underrepresented student engagement in research. &lt;br/&gt;&lt;br/&gt;This project advances the knowledge of mobile device security and privacy. It explores a novel gripping-hand biometric for user identification, which is readily available to acquire visually or acoustically from mobile device users. Deep learning-based algorithms are developed to derive unique biometric features and distinguish people’s hands. The project further devises a technique based on modulated stimulus signals to encode biometric features into each non-repeated biometric code for challenge-response user authentication. Moreover, cross-domain user authentication methods are developed, which leverage commonly used smartphone audio signals (e.g., ringtones) to sense and recognize a user’s gripping hand rather than using dedicated signals. The hard-to-forge physical relationships between the resulting acoustic and vibration responses of such audio signals are explored for achieving replay resistance.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/10/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>06/10/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155131</AwardID>
+<Investigator>
+<FirstName>Chen</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chen Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[chenwang1@lsu.edu]]></EmailAddress>
+<NSF_ID>000817720</NSF_ID>
+<StartDate>06/10/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Louisiana State University</Name>
+<CityName>BATON ROUGE</CityName>
+<ZipCode>708030001</ZipCode>
+<PhoneNumber>2255782760</PhoneNumber>
+<StreetAddress>202 HIMES HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECQEYCHRNKJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LOUISIANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Z7ZNZH7LJ778</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Louisiana State University and A&M College]]></Name>
+<CityName>Baton Rouge</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>708032701</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~471429</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAS: Reaction Mechanisms in 3d Transition Metal Complexes for Artificial Photosynthesis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Johnson</SignBlockName>
+<PO_EMAI>ricjohns@nsf.gov</PO_EMAI>
+<PO_PHON>7032928840</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In this project supported by the Chemical Structure, Dynamics &amp; Mechanisms B (CSDM-B) Program of the Chemistry Division, Professor Yulia Pushkar of the Department of Physics and Astronomy at Purdue University will develop new molecular solutions for artificial photosynthesis. In artificial photosynthesis, solar energy is converted into chemical energy through generation of clean fuels such as hydrogen. Water serves as a source of electrons and protons for fuel forming reaction but its splitting into hydrogen and oxygen requires rearrangement of chemical bonds at high potential. Molecular catalysts which contain earth-abundant iron, cobalt and manganese can facilitate water splitting by lowering the potential and, thus, boosting energy conversion efficiencies.  The development of artificial photosynthesis and its large-scale implementation is expected to address the energy needs of modern society and facilitate transition to a CO2 neutral economy. This research lies at the interface of physics, chemistry and materials science, with results expected to impact diverse fields and contribute to fundamental science, education, environment and national energy security. Planned research and educational activities are designed to increase participation of under-represented students from economically disadvantaged backgrounds, improve experiences of female students in STEM (Science, Technology, Engineering and Mathematics), enhance training of students via integration of research results into curriculum and to deliver teaching modules to schools. &lt;br/&gt;&lt;br/&gt;Research in this project focuses on the complex multielectron chemical process of artificial photosynthesis. Among the goals is the development of new and detailed studies of known Fe-based molecular water oxidation catalysts. In situ spectroscopic characterization of intermediates in catalytic water oxidation using Fe systems will inform future design of more active and stable catalysts. Advanced spectroscopic techniques such as synchrotron-based X-ray absorption near edge structure (XANES), extended X-ray absorption fine structure (EXAFS), X-ray emission, electron paramagnetic resonance (EPR), and multi-wavelength kinetic resonance Raman will be used to uncover mechanism of O-O bond formation in these catalysts. The relationship between molecular structure and catalytic activity will be uncovered experimentally and further analyzed computationally using density functional theory (DFT). Experimental techniques will deliver information on the structure of the intermediates and their electronic configuration and evolution of samples during the catalytic processes in situ.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/18/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155060</AwardID>
+<Investigator>
+<FirstName>Yulia</FirstName>
+<LastName>Pushkar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yulia Pushkar</PI_FULL_NAME>
+<EmailAddress><![CDATA[YPushkar@purdue.edu]]></EmailAddress>
+<NSF_ID>000520906</NSF_ID>
+<StartDate>04/18/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 NORTHWESTERN AVE STE 1900</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479072114</ZipCode>
+<StreetAddress><![CDATA[525 Northwestern Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>9102</Code>
+<Text>Chem Struct,Dynmcs&amp;Mechansms B</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8397</Code>
+<Text>Hydrogen Storage or Generation</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~450000</FUND_OBLG>
+</Award>
+</rootTag>

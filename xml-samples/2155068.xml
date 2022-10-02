@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Connecting Kinetics and Mechanisms to Surface Structures on Highly-Oxidized Metal Surfaces in Heterogeneous Catalysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>525000.00</AwardTotalIntnAmount>
+<AwardAmount>525000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tong Ren</SignBlockName>
+<PO_EMAI>tren@nsf.gov</PO_EMAI>
+<PO_PHON>7032928840</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With funding from the Chemical Catalysis program of the Chemistry Division, Dan Killelea of Loyola University of Chicago (LUC) will explore the reactive species present during heterogeneously catalyzed oxidation reactions and will probe their energetics to advance understanding of the oxidative surface chemistry of catalytically active metals. Heterogeneously catalyzed oxidation reactions on metal surfaces seem superficially straightforward, yet subtle details may dominate because of the heterogeneity of the surfaces. These key details are often obscured, rendering accurate atomic-level descriptions elusive for even a ‘simple’ reaction like CO oxidation to CO2.  Illuminating these atomic-level details about heterogeneously catalyzed reactions is expected to contribute to advances in the utilization of scarce resources and to a reduction in the generation of environmentally harmful byproducts. In conjunction with the surface chemistry aspect, this project will offer scientific research opportunities to under-represented socioeconomic groups in the Chicago Public Schools (CPS) through various outreach efforts: the high school lab, tours of LUC facilities, and a summer internship program.  Additional engagement and outreach efforts will include hosting CPS student meetings with admissions counselors from local universities and trips to Argonne National Laboratory. Through these efforts, high school students from economically disadvantaged neighborhoods will gain exposure to science and learn about new educational opportunities and careers.&lt;br/&gt;&lt;br/&gt;Under this award, Dan Killelea of Loyola University, Chicago and his team are working to uncover the connection between observed surface structures and reaction kinetics and mechanism for heterogeneous catalysis systems. Rhodium metal surfaces, which are representative of the late-transition metals, are reproducibly prepared with specific, well-characterized oxygenaceous phases. The effects of defect density and geometry on surface oxidation and chemistry will be systematically explored using a curved Rh(111) crystal. Structural data from scanning tunneling microscopy(STM)-imaging will be interpreted using input from density functional theory (DFT), which will also calculate the energetics of Osub. The data obtained will be complemented with ancillary surface science measurements. The reactivity and structural measurements collected at Loyola will identify the surface states and conditions for further study of CO oxidation.  These experiments will be conducted in Leiden (Netherlands) and Göttingen (Germany) with the reactive molecular-beam scattering with velocity resolved detection. The results of this project  are expected to advance catalytic surface chemistry by providing much-needed fundamental information about the kinetics and mechanisms of heterogeneously catalyzed oxidation reactions and reveal the importance of subsurface oxygen in these industrially relevant reactions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/17/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155068</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Killelea</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel Killelea</PI_FULL_NAME>
+<EmailAddress><![CDATA[dkillelea@luc.edu]]></EmailAddress>
+<NSF_ID>000665412</NSF_ID>
+<StartDate>05/17/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Loyola University of Chicago</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606601537</ZipCode>
+<PhoneNumber>7735082471</PhoneNumber>
+<StreetAddress>1032 W SHERIDAN RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CVNBL4GDUKF3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LOYOLA UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>CVNBL4GDUKF3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Loyola University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606601537</ZipCode>
+<StreetAddress><![CDATA[1032 W. Sheridan Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>6884</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8398</Code>
+<Text>Hydrocarbon Conversion</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8611</Code>
+<Text>Energy Efficiency and End Use</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~525000</FUND_OBLG>
+</Award>
+</rootTag>

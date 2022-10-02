@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Nonlinear Partial Differential Equations Methods in the Study of Interfaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>191324.00</AwardTotalIntnAmount>
+<AwardAmount>191324</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marian Bocea</SignBlockName>
+<PO_EMAI>mbocea@nsf.gov</PO_EMAI>
+<PO_PHON>7032922595</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project investigates partial differential equations (PDE) that arise in several areas of pure and applied mathematics. One of the main objectives is the formal derivation of physical models, whose mathematical description is based on PDE of nonlocal type, that describe the dynamics of defect lines in crystalline materials. In a different area, the PI will investigate the qualitative behavior of solutions to nonlinear elliptic PDE that model segregation phenomena. The project will fundamentally contribute to these fields by bridging the gap between mathematical analysis and physics and will enable further mathematical understanding of physical phenomena. The project provides research training opportunities for graduate students and postdoctoral researchers.&lt;br/&gt;&lt;br/&gt;At a technical level, the objective of this project is the study of forming interface surfaces through PDE methods. Thematic areas of focus are: (i) Nonlocal reaction-diffusion equations, where the main goals are to derive mesoscale and macroscopic scale models describing the dynamics of defect lines in crystals (dislocations) through the study of the asymptotic limits of Peierls-Nabarro models and to prove existence of heteroclinic and multibump orbits for systems of equations driven by fractional operators; and (ii) Segregation models and nonlinear eigenvalue problems. Here, the main objective is the analysis of nodal sets of segregated stationary configurations and their connection with eigenvalue problems for fully nonlinear operators.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/16/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>06/16/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155156</AwardID>
+<Investigator>
+<FirstName>Stefania</FirstName>
+<LastName>Patrizi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stefania Patrizi</PI_FULL_NAME>
+<EmailAddress><![CDATA[spatrizi@math.utexas.edu]]></EmailAddress>
+<NSF_ID>000732319</NSF_ID>
+<StartDate>06/16/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787595316</ZipCode>
+<StreetAddress><![CDATA[3925 W Braker Lane, Ste 3.340]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<FUND_OBLG>2022~191324</FUND_OBLG>
+</Award>
+</rootTag>

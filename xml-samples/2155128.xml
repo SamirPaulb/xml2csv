@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SaTC: CORE: Small: Understanding Practical Deployment Considerations for Decentralized, Encrypted DNS]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexander Sprintson</SignBlockName>
+<PO_EMAI>asprints@nsf.gov</PO_EMAI>
+<PO_PHON>7032922170</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Domain Name System (DNS) is the Internet protocol and system that maps human-readable names to Internet protocol addresses; it is central to every Internet activity, from web browsing to video streaming. Despite the central role of the DNS in essentially all Internet communications, until recently it has been unencrypted, which has introduced significant privacy risks and vulnerabilities. In recent years, technology to encrypt DNS queries and responses includes transmitting DNS queries and responses. This project is studying the performance and privacy properties of existing encrypted DNS protocols such as DoH and DoT, towards the ultimate goal of deploying applications and systems that use these new protocols to improve user privacy and provide users satisfactory performance.  The Internet is rapidly moving towards encrypted DNS protocols, with encrypted DNS now either available or enabled by default in many standard Internet browsers and Internet-connected embedded devices.  Yet, there is relatively little knowledge or agreement about the performance and privacy characteristics of such protocols.  This project builds on the early work in this area to develop comprehensive techniques for evaluating both the performance and privacy of new network applications, systems, and architectures that rely on encrypted DNS protocols.  The research will contribute to the larger body of knowledge on both DNS performance and privacy, and the available performance and evaluation frameworks for evaluating encrypted DNS protocols will be released to the community to allow others to continue to build on these results.&lt;br/&gt;&lt;br/&gt;The first theme of this project seeks to understand the performance implications of existing encrypted DNS protocols and architectures, on DNS lookup time, as well as on the performance of popular Internet applications whose performance depends on the DNS, particularly for metrics such as web page load time.  Understanding why (and when) encrypted DNS outperforms unencrypted DNS---as well as when it does not---will ultimately shed light on how to best architect DNS resolution to ensure both confidentiality and good performance. The second theme of this project recognizes that encrypting DNS need not imply centralization. Distributing a client's DNS queries across multiple recursive resolvers may improve reliability, privacy, and even performance, although such improvements will ultimately require the design of appropriate strategies for distributing these queries. This theme explores the prospect of re-decentralizing the DNS.  Third, the project is coalescing various approaches to DNS privacy---from DNS encryption to previous work on oblivious DNS (ODNS)---into a coherent architectural framework. This theme explores how and where DNS privacy extensions could be deployed (e.g., in a local DNS resolver, in a web browser) to both preserve user privacy and preserve a seamless user experience.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/29/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>07/29/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155128</AwardID>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Feamster</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicholas G Feamster</PI_FULL_NAME>
+<EmailAddress><![CDATA[feamster@uchicago.edu]]></EmailAddress>
+<NSF_ID>000489704</NSF_ID>
+<StartDate>07/29/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>5801 S ELLIS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUE9HKT2CLC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ZUE9HKT2CLC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Chicago]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606372612</ZipCode>
+<StreetAddress><![CDATA[5730 South Ellis Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~500000</FUND_OBLG>
+</Award>
+</rootTag>

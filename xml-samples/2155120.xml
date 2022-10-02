@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Harnessing Pseudo One- and Two-Coordination for Reactivity and Magnetism]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+<PO_EMAI>tli@nsf.gov</PO_EMAI>
+<PO_PHON>7032924949</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With support from the Chemical Structure, Dynamics &amp; Mechanisms-B (CSDM-B) Program of the Chemistry Division, Kyle Lancaster of the Department of Chemistry and Chemical Biology at Cornell University is developing new classes of two- and pseudo-one-coordinate transition metal complexes with interesting electronic and structural properties.  The goal of this research is to exploit the characteristics of these ultra-low-coordinate transition metal complexes for the discovery of new catalysts for group transfer reactions, as well as the development of new storage technologies, namely those based on single molecule magnets (SMMs), to meet the challenge of increasing data storage capacity in progressively smaller form factors. The project synergizes concepts of inorganic synthesis, materials chemistry, and physical chemistry, and is well suited as educational training for chemistry graduate students. Outreach activities involving K-12 students as well as the general public will also be supported by this project.  &lt;br/&gt;&lt;br/&gt;Recent studies have showcased the potential of open-shell, low-coordinate transition metal complexes as inexpensive catalysts for several important reactions and have demonstrated encouraging SMM behavior. In this project, the following questions will be addressed: 1) can bulky 1,8-diarylsubstituted carbazoles be used to generally synthesize heteroleptic, two-coordinate transition metal complexes? 2) Can these ligands support reduced metal centers in pseudo-one-coordinate environments? 3) To what extent do secondary interactions stabilize reactive metal ligand linkages? 4) To what extent can heterolepticity and metal identity be used to tune the electronic structures of the complexes and influence their magnetic properties?&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/10/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155120</AwardID>
+<Investigator>
+<FirstName>Kyle</FirstName>
+<LastName>Lancaster</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kyle M Lancaster</PI_FULL_NAME>
+<EmailAddress><![CDATA[kml236@cornell.edu]]></EmailAddress>
+<NSF_ID>000559468</NSF_ID>
+<StartDate>07/10/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>341 PINE TREE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY23</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EQA8NBEN9WD5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>Ithaca</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148502820</ZipCode>
+<StreetAddress><![CDATA[373 Pine Tree Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY23</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>9102</Code>
+<Text>Chem Struct,Dynmcs&amp;Mechansms B</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~450000</FUND_OBLG>
+</Award>
+</rootTag>

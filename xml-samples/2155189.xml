@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SaTC: CORE: Small: Generic Circuit Learning from Adaptive Side-Channel Queries]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>365919.00</AwardTotalIntnAmount>
+<AwardAmount>365919</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gang Qu</SignBlockName>
+<PO_EMAI>gqu@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project aims to develop algorithms and techniques for allowing one to learn the hidden structure of a digital or analog circuit from power, timing, and electro-magnetic radiation measurements (so-called side-channels) of the circuit, in a generic (applicable to arbitrary circuits) and adaptive (the algorithm intelligently interacts with the circuit) manner.  Such algorithms can be used in various applications most importantly as tools in the arsenal of hardware security and integrity checking. Given the rise in cyber threats especially those that involve hardware access to such versatile adaptive tools become increasingly valuable. The project aims to deliver the developed technology in the form of (open-source) software, benchmarks, papers, machine-learning datasets, and training of an expert future workforce.&lt;br/&gt;&lt;br/&gt;The project explores this problem along three technical tasks: The first task is dedicated to digital circuits with a focus on solver-based, circuit-based, and statistical/machine-learning-based solutions. The second task is dedicated to analog and mixed-signal circuits. This involves exploring how to model arbitrary analog circuit side-channels and having non-linear solvers and optimizers interact with them for the learning process. The third task is dedicated to utilization, evaluation, and demonstration. This involves taking results from the first two tasks and using them in the context of security analysis of various circuit protection schemes against side-channel attacks, and the detection of malicious hardware modifications. Simulation in software, programmable hardware, discrete components, plus two chip designs are being used to test the proposed methods and algorithms as well.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155189</AwardID>
+<Investigator>
+<FirstName>Kaveh</FirstName>
+<LastName>Shamsi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kaveh Shamsi</PI_FULL_NAME>
+<EmailAddress><![CDATA[kaveh.shamsi@utdallas.edu]]></EmailAddress>
+<NSF_ID>000837919</NSF_ID>
+<StartDate>06/30/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Dallas</Name>
+<CityName>RICHARDSON</CityName>
+<ZipCode>750801407</ZipCode>
+<PhoneNumber>9728832313</PhoneNumber>
+<StreetAddress>800 W CAMPBELL RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJCVPNN1WFS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT DALLAS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Dallas]]></Name>
+<CityName>Richardson</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>750803021</ZipCode>
+<StreetAddress><![CDATA[800 W. Campbell Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>32</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX32</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~365919</FUND_OBLG>
+</Award>
+</rootTag>

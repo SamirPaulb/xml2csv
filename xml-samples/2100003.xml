@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CI CoE: Demo Pilot: Advancing Research Computing and Data: Strategic Tools, Practices, and Professional Development]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>1497243.00</AwardTotalIntnAmount>
+<AwardAmount>1497243</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Varun Chandola</SignBlockName>
+<PO_EMAI>vchandol@nsf.gov</PO_EMAI>
+<PO_PHON>7032922656</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Research is increasingly dependent upon Cyberinfrastructure (CI), from instruments and sensors to Research Computing and Data (RCD) infrastructure and services. High Performance Computing (HPC) is an important element, however RCD has expanded well beyond HPC into secure enclaves for data compliance; big data management, analytics, and movement; AI/machine learning; and more recently into heterogeneous compute models, edge computing, and cloud-based computing. Researchers are struggling to keep pace with the explosion of data and the rapid evolution of computing resources, and often lack the skills to make full use of emerging tools and techniques. Developing and maintaining the needed expertise takes valuable time from research and is often beyond the capacity of researchers; they must depend upon partners (RCD professionals) who combine technology expertise and an understanding of research workflows and researcher needs. Institutions face challenges recruiting and retaining RCD professional staff, and building effective RCD support services. This CI CoE Demonstration Pilot (RCD CoE) will develop an RCD Resource and Career Center to advance and enable the nation's capacity for computational and data-intensive research by providing institutions and individuals the products, tools, services, and community to build and sustain successful RCD operations.  The project will also provide expertise in the development of new RCD professionals, and provide a voice and a connector for the broad community and the profession at large. &lt;br/&gt;&lt;br/&gt;The RCD Resource and Career Center will build upon work that the NSF-supported Campus Research Computing Consortium (CaRCC) has done and continues to do to develop products and tools for effective RCD support. The Center will develop a robust and sustainable implementation of the RCD Capabilities Model that provides an assessment framework, support for benchmarking and strategic planning, and a community data set to understand the landscape of RCD support. The Center will expand and disseminate resources for RCD Professionalization, including support for adoption of an RCD Job Family Matrix to properly classify RCD professional roles and conducting a national census of RCD Professionals to characterize the current state of RCD staff and programs. The Center will create and disseminate a model of Career Arcs for RCD Professionals to explain career options and help existing RCD professionals explore professional development and advancement. Work in the project will aggregate resources for staff training and workforce development, including leading practices for recruitment, onboarding, advancing diversity, equity and inclusion (DEI), and professional development, as well as proven models for student internship and training programs. The pilot period and the community of communities will be used to facilitate the creation of a coordinating organization to connect all the relevant communities and to develop a shared voice for RCD professionals as the project plans for a full Center of Excellence.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/19/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/19/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2100003</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Cheatham</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME>III</PI_SUFX_NAME>
+<PI_FULL_NAME>Thomas E Cheatham</PI_FULL_NAME>
+<EmailAddress><![CDATA[tec3@utah.edu]]></EmailAddress>
+<NSF_ID>000095070</NSF_ID>
+<StartDate>05/19/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dana</FirstName>
+<LastName>Brunson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dana Brunson</PI_FULL_NAME>
+<EmailAddress><![CDATA[dbrunson@internet2.edu]]></EmailAddress>
+<NSF_ID>000548697</NSF_ID>
+<StartDate>05/19/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Yockel</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott Yockel</PI_FULL_NAME>
+<EmailAddress><![CDATA[syockel@g.harvard.edu]]></EmailAddress>
+<NSF_ID>000753904</NSF_ID>
+<StartDate>05/19/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Schmitz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Patrick Schmitz</PI_FULL_NAME>
+<EmailAddress><![CDATA[pschmitz@internet2.edu]]></EmailAddress>
+<NSF_ID>000764398</NSF_ID>
+<StartDate>05/19/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Claire</FirstName>
+<LastName>Mizumoto</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Claire E Mizumoto</PI_FULL_NAME>
+<EmailAddress><![CDATA[claire@ucsd.edu]]></EmailAddress>
+<NSF_ID>000829737</NSF_ID>
+<StartDate>05/19/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>INTERNET2</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200363846</ZipCode>
+<PhoneNumber>7349134264</PhoneNumber>
+<StreetAddress>1150 18TH ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 900]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DZEBKFRD1ZN6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY CORPORATION FOR ADVANCED INTERNET DEVELOPMENT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Internet2]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200363825</ZipCode>
+<StreetAddress><![CDATA[1150 18th St NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7231</Code>
+<Text>CYBERINFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~1497243</FUND_OBLG>
+</Award>
+</rootTag>

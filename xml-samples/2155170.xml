@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[1,2-Dioxetanes for Quantitative Chemiluminescence Imaging]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Francis D'Souza</SignBlockName>
+<PO_EMAI>frdsouza@nsf.gov</PO_EMAI>
+<PO_PHON>7032924559</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With the support of the Chemical Structure, Dynamics, and Mechanisms B (CSDM-B) Program in the Division of Chemistry, Professor Alexander R. Lippert of Southern Methodist University is studying the fundamental structures and mechanisms of chemiluminescent molecules for use in quantitative chemiluminescence imaging techniques. Chemiluminescence is the light observed in fireflies and glowsticks and is sometimes referred to as cold light generated during a chemical reaction. Imaging in cells and mammals using chemiluminescence offers significant advantages including low-cost, high sensitivity, low phototoxicity, and the ability to image in deeper tissue. This emerging technique for molecular imaging is limited, however, by a lack of methods for precise quantitative imaging of analytes and optimal microscopy instrumentation. The proposed study will advance the field of chemiluminescence sensing by progressing from rough relative measurements to precise quantitative imaging of a diverse set of analytes. This project will also serve to enhance participation of under-represented students in STEM. In collaboration with a local HBCU Prairie View A&amp;M University, the PI will recruit and co-mentor under-represented students to participate in this research and receive long-term mentorship.&lt;br/&gt;&lt;br/&gt;The three specific aims of the project are: (1) develop near-infrared (NIR) and short-wave infrared (SWIR) ratiometric chemiluminescent probes for quantitative Imaging; (2) develop kinetics-based chemiluminescence probes for quantitative imaging; (3) develop chemiluminescence microscopy for quantitative imaging. The proposed work aims to gain mechanistic understanding to develop innovative molecules, instrumentation, and methods for quantitative chemiluminescence imaging of O2, pH, metals, reactive species, and enzymes in cells and animals, thereby advancing fundamental understanding of chemiluminescence and broadly enabling biological studies. Chemiluminescent molecules with NIR and SWIR ratiometric emission will provide better quantification and the ability to image in deeper tissue. The kinetics of the chemiluminescent reactions and reactions of probes with analytes will be solved in detail and methods will be developed to advance this understanding in the context of chemiluminescence microscopy. New types of chemiluminescence microscopes will be developed with optical components that maximize light gathering ability and minimize photon loss. Finally, the translation of novel molecules and mechanistic understanding into methods for cellular and whole animal imaging will unlock a new field of high sensitivity, low phototoxicity, and deep tissue quantitative chemiluminescence imaging.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/04/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155170</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Lippert</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander R Lippert</PI_FULL_NAME>
+<EmailAddress><![CDATA[alippert@smu.edu]]></EmailAddress>
+<NSF_ID>000699928</NSF_ID>
+<StartDate>05/04/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Southern Methodist University</Name>
+<CityName>DALLAS</CityName>
+<ZipCode>75205</ZipCode>
+<PhoneNumber>2147684708</PhoneNumber>
+<StreetAddress>6425 BOAZ LANE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>32</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX32</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D33QGS3Q3DJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOUTHERN METHODIST UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D33QGS3Q3DJ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Southern Methodist University]]></Name>
+<CityName>Dallas</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>752750302</ZipCode>
+<StreetAddress><![CDATA[6425 BOAZ]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>32</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX32</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>9102</Code>
+<Text>Chem Struct,Dynmcs&amp;Mechansms B</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7234</Code>
+<Text>SENSORS NON-SOLICITATION RESEA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~500000</FUND_OBLG>
+</Award>
+</rootTag>

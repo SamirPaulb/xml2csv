@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Development of New Catalytic Reactions for the Synthesis of Natural Products]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Blakemore</SignBlockName>
+<PO_EMAI>pblakemo@nsf.gov</PO_EMAI>
+<PO_PHON>7032922726</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With the support of the Chemical Synthesis (SYN) program in the Division of Chemistry, Professor Sarah E. Reisman of the California Institute of Technology (Caltech) is developing new catalytic reactions for the chemical synthesis of natural products. Key to advancing the science of chemical synthesis is the design and application of new reactions for carbon–carbon (C–C) bond formation. The invention of new catalytic C–C bond forming reactions allows chemists to synthesize important molecules with increased efficiency – reducing the cost and resources required. Reisman and team will focus on the synthesis of natural products and, in particular, the complex structures of the selected target molecules pose challenges to the current state-of-the-art in catalysis, and provide a platform to invent, test, and refine new C–C bond forming reactions that can ultimately find applications in the synthesis of a broad range of molecules that can benefit society. The rigorous training of scientists in the theory, methods, and strategies of constructing organic molecules will be an essential part of the funded research studies. Undergraduate, graduate student and post-doctoral researchers trained through this research experience will be poised to pursue careers in the chemical, biotechnology, and materials science sectors. With support from the Caltech Center for Teaching, Learning and Outreach (CTLO), the Reisman team will visit Los Angeles Unified School District (LAUSD) and Pasadena Unified School District (PUSD) classrooms to give presentations to high school science students about the role of chemistry in drug discovery and related chemistry career opportunities. In partnership with Progress Brewing, a local brewery, the Reisman team will host Science Café programs featuring Caltech scientists.&lt;br/&gt;&lt;br/&gt;Structurally complex, polycyclic natural products – which often possess multiple reactive functional groups and stereogenic centers – challenge the limits of current synthetic methodology. This award will support two natural product synthesis projects that feature new reaction development. The first project will investigate a Ni-catalyzed cross-coupling as the key step in a concise and modular synthesis of an ent-kauranoid natural product. The second project will develop a radical-polar crossover annulation using photoredox catalysis to prepare a polyketide natural product. It is expected that these studies will advance the state of the art in catalytic C–C bond formation, provide new tools for strategic bond formation in complex settings, and demonstrate how modern synthetic methods can improve synthetic strategy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/23/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155163</AwardID>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>Reisman</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sarah E Reisman</PI_FULL_NAME>
+<EmailAddress><![CDATA[reisman@caltech.edu]]></EmailAddress>
+<NSF_ID>000537586</NSF_ID>
+<StartDate>06/23/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>91125</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E CALIFORNIA BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>29</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA29</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U2JMKHNS5TG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>PASADENA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>911250600</ZipCode>
+<StreetAddress><![CDATA[1200 E California Blvd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA27</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>6878</Code>
+<Text>Chemical Synthesis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~450000</FUND_OBLG>
+</Award>
+</rootTag>

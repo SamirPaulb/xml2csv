@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAS: Understanding Structural Metamorphosis of Transition Metal Chalcogenide Electrocatalyst Interfaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>548308.00</AwardTotalIntnAmount>
+<AwardAmount>379583</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth Moloy</SignBlockName>
+<PO_EMAI>kmoloy@nsf.gov</PO_EMAI>
+<PO_PHON>7032928441</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With the support of the Chemical Catalysis (CAT) program in the Chemistry Division (CHE) and the Solid State and Materials Chemistry (SSMC) program in the Division of Materials Research (DMR), Manashi Nath and Xinhua Liang from Missouri University of Science &amp; Technology are studying the surface chemistry of transition metal chalcogenide-based electrocatalysts. The materials catalyze water electrolysis under reactive electrochemical conditions and understanding their fundamental activity is important to further improve them. Water electrolysis, also known as water splitting, is a promising way to produce hydrogen and oxygen. Electrochemically-produced hydrogen has significant potential for renewable energy. However, the oxygen evolution reaction (OER) is the most challenging aspect to overcome in electrocatalytic water splitting. Although several highly active OER electrocatalysts have been discovered over the last few years, there remains a lack of understanding of the actual catalyst surface species responsible for their reactivity. In this project, the PIs will investigate an interesting and well-defined family of chalcogenide (selenide and telluride) electrocatalysts with high OER catalytic activity to diagnose their interfacial behavior. Apart from offering new insight about the active surface composition, the PIs will also (i) provide science education opportunities for high school students and educators by organizing workshops and distribution of demonstration toolkits; (ii) provide opportunities for members of underrepresented groups and women in the PI research laboratories and increase diversity in the workplace; (iii) involve researchers at academic levels from undergraduate to postdoc and mentor these coworkers to sharpen their research and scientific communication skills.&lt;br/&gt;&lt;br/&gt;Through this collaborative research project, the  teams of Manashi Nath and Xinhua Liang from Missouri University of Science &amp; Technology will together studying the surface chemistry of transition metal chalcogenide-based electrocatalysts. Although transition metal chalcogenides have shown tremendous promise for catalytic water oxidation owing to their unprecedented high efficiency, there remains a lack of proper understanding of the active surface composition for these catalysts under operational conditions. In this project, the PIs will focus on bridging this knowledge gap by trying to understand the cause of high catalytic activity of transition metal selenide and telluride based electrocatalysts by following speciation and evolution of the active electrochemical interface through detailed in situ and ex situ characterizations of experimentally created surface model analogues, along with density functional theory (DFT) studies. The PIs hypothesize that the catalytic chalcogenide surface in alkaline medium can potentially be described by two different structural models: one resulting from complete chemical conversion of chalcogenide to oxide surface leading to oxide-coated chalcogenide surface, and the other comprising partially hydroxylated mixed anionic (hydroxy)chalcogenide surface which retains compositional integrity of the chalcogenide. The PIs further propose the mixed anionic (hydroxyl)chalcogenide model to be more accurate description of the active surface. These hypotheses will be evaluated by synthesizing catalyst surfaces analogous to the oxide-coated chalcogenide and (hydroxy)chalcogenide models through electrodeposition and atomic layer deposition and collecting experimental evidence from a combination of extensive bulk and surface characterization techniques. Simulation studies will be performed to decipher local coordination environment around the catalytically active site under reactive conditions. This project has the potential to provide structural and functional insight on the nature of the active electrochemical interface, information needed to guide future efforts at surface engineering of such important transition metal chalcogenide-based functional materials.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/06/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>06/06/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155175</AwardID>
+<Investigator>
+<FirstName>Manashi</FirstName>
+<LastName>Nath</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Manashi Nath</PI_FULL_NAME>
+<EmailAddress><![CDATA[nathm@mst.edu]]></EmailAddress>
+<NSF_ID>000528466</NSF_ID>
+<StartDate>06/06/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xinhua</FirstName>
+<LastName>Liang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xinhua Liang</PI_FULL_NAME>
+<EmailAddress><![CDATA[liangxin@mst.edu]]></EmailAddress>
+<NSF_ID>000644574</NSF_ID>
+<StartDate>06/06/2022</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Missouri University of Science and Technology</Name>
+<CityName>ROLLA</CityName>
+<ZipCode>654096506</ZipCode>
+<PhoneNumber>5733414134</PhoneNumber>
+<StreetAddress>300 W 12TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y6MGH342N169</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LBFJB8N7LME3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>Rolla</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>654096506</ZipCode>
+<StreetAddress><![CDATA[400 W 12th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1762</Code>
+<Text>SOLID STATE &amp; MATERIALS CHEMIS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>6884</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8397</Code>
+<Text>Hydrogen Storage or Generation</Text>
+</ProgramReference>
+<FUND_OBLG>2022~379583</FUND_OBLG>
+</Award>
+</rootTag>

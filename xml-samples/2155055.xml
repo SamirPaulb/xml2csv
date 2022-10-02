@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Transition Metal Catalysis of Electrocyclic Reactions</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>525000.00</AwardTotalIntnAmount>
+<AwardAmount>525000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>George Richter-Addo</SignBlockName>
+<PO_EMAI>grichter@nsf.gov</PO_EMAI>
+<PO_PHON>7032927528</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With the support of the Chemical Catalysis program in the Division of Chemistry, Professor Joseph O’Connor of the University of California, San Diego will study new ways to convert readily available acyclic organic compounds that contain multiple carbon-carbon double bonds into high-value cyclic compounds. This will be achieved by the design of new organometallic catalysts that provide a high degree of control over the three-dimensional structure of the product molecules. Organometallic catalysts are carbon- and metal-containing substances that, when added in trace amounts to a reaction mixture, speed up the conversion of starting materials to products. Catalysts permit lower reaction temperatures, thereby minimizing energy input and the associated production of green-house gases. In addition, catalysts prevent the formation of undesired byproducts and their associated negative environmental impacts. Novel approaches for the controlled generation of proposed intermediates will advance our understanding of a relatively unexplored but important area of hydrocarbon chemistry. The proposed research will contribute to future advances in the eco-friendly preparation of organic molecules with useful properties. Students, including women, persons with disabilities, and persons from underrepresented minority groups, will receive  will receive multidisciplinary training that spans mechanistic, synthetic, organometallic, and computational chemistry, thereby positioning them for future independent scientific contributions in both industry and academia.&lt;br/&gt;&lt;br/&gt;Under with award, the O’Connor research group will study new ways to catalyze the electrocyclization of conjugated trienes. It is anticipated that these studies will lay a foundation for the development of new catalysts that facilitate challenging reactions that involve highly delocalized, nonpolar transition-state structures. The catalyst design innovations include metal catalysts with a facial array of three accessible metal coordination sites for the simultaneous interaction of the metal with three pi-bonds. Low temperature spectroscopy, X-ray crystallography, and computational studies will be utilized to reveal how hexadentate coordination perturbs polyene structures and induces disrotatory triene ring closure. By employing a chiral ancillary ligand, enantioselective electrocyclization will be targeted. Studies into metal-catalyzed electrocyclization will unlock new retro-synthetic approaches for the synthesis of complex biologically active compounds, designer ligands, and new materials. The scope and limitations of these new electrocyclization reactions will be studied in detail.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/05/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>04/05/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155055</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>O'Connor</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph M O'Connor</PI_FULL_NAME>
+<EmailAddress>jmoconnor@ucsd.edu</EmailAddress>
+<PI_PHON>8585345836</PI_PHON>
+<NSF_ID>000280800</NSF_ID>
+<StartDate>04/05/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920935004</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>9500 GILMAN DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>49</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA49</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>La Jolla</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930934</ZipCode>
+<StreetAddress><![CDATA[Office of Contract & Grant Admin]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>49</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA49</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>6884</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<FUND_OBLG>2022~525000</FUND_OBLG>
+</Award>
+</rootTag>

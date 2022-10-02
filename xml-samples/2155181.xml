@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SaTC: CORE: Small: Exploiting Stimulus-response Correlation for Wireless Hidden Device Localization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Joshi</SignBlockName>
+<PO_EMAI>jjoshi@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Smart Internet-of-things (IoT) devices, such as wireless cameras and voice-controlled devices, commonly employ motion or voice activity detection for increased security and convenience, so that upon detecting physical stimuli (e.g., motion or sound), they start to work and upload the sensing data to the cloud. The ubiquity of such devices also brings privacy concerns associated with unauthorized monitoring, as they can be kept hidden easily in various locations like hotel rooms. Traditional ways to detect a wireless hidden device mainly include Radio Frequency (RF) scanning, lens detection, and physical search. The latter two methods are cumbersome as they require inspecting every corner of the target area. RF scanning may work when the device is actively transmitting, but existing work can only detect a sensor's existence, not its exact location. However, detection is often insufficient, as the device owner may claim it is somewhere outside of the room or installed by others. By finding the physical device, a victim whose privacy is violated can obtain direct and solid evidence.&lt;br/&gt;&lt;br/&gt;This project focuses on investigating causality between stimuli to hidden wireless devices and resultant patterns in observable wireless traffic. This research aims at (i) designing practical approaches to pinpoint wireless hidden devices leveraging the correlation between artificial stimuli and resultant wireless traffic, and (ii) developing countermeasures against stimulus-response-based device localization schemes. The project will create techniques that substantially safeguard user privacy against unauthorized monitoring via wireless hidden devices. The results from this research will be openly shared.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/20/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>08/20/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2155181</AwardID>
+<Investigator>
+<FirstName>Song</FirstName>
+<LastName>Fang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Song Fang</PI_FULL_NAME>
+<EmailAddress><![CDATA[songf@ou.edu]]></EmailAddress>
+<NSF_ID>000800154</NSF_ID>
+<StartDate>08/20/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oklahoma Norman Campus</Name>
+<CityName>NORMAN</CityName>
+<ZipCode>730194039</ZipCode>
+<PhoneNumber>4053254757</PhoneNumber>
+<StreetAddress>1000 ASP AVE RM 105</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OK04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EVTSTTLCEWS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OKLAHOMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Y74NRF365E33</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oklahoma Norman Campus]]></Name>
+<CityName/>
+<StateCode>OK</StateCode>
+<ZipCode>730199705</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OK04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~500000</FUND_OBLG>
+</Award>
+</rootTag>
